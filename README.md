@@ -16,7 +16,7 @@ public class VanthiyathThevan {
     String name        = "Vanthiyath Thevan A";
     String location    = "Thanjavur, Tamil Nadu, India";
     String degree      = "B.E – Computer Science & Engineering";
-    String email       = "vanthiyalarul20@gmail.com";
+    String email       = "vanthiyanarul20@gmail.com";
 
     String[] stack = {
         "Java", "Python", "C",
