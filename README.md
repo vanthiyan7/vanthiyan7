@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<a href="https://github.com/vanthiyathevan">
+<a href="https://github.com/vanthiyan7">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanthiyath%20Thevan%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=16" />
 </a>
 
@@ -18,7 +16,7 @@ public class VanthiyathThevan {
     String name        = "Vanthiyath Thevan A";
     String location    = "Thanjavur, Tamil Nadu, India";
     String degree      = "B.E – Computer Science & Engineering";
-    String email       = "vanthiyanarul20@gmail.com";
+    String email       = "vanthiyalarul20@gmail.com";
 
     String[] stack = {
         "Java", "Python", "C",
@@ -78,11 +76,11 @@ public class VanthiyathThevan {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vanthiyathevan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanthiyathevan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/vanthiyan7">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanthiyan7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/vanthiyathevan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthiyathevan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/vanthiyan7">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthiyan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -91,7 +89,7 @@ public class VanthiyathThevan {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vanthiyathevan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=vanthiyan7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -99,7 +97,7 @@ public class VanthiyathThevan {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanthiyathevan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanthiyan7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -107,7 +105,7 @@ public class VanthiyathThevan {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanthiyathevan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanthiyan7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -135,8 +133,8 @@ public class VanthiyathThevan {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🌿 Medicinal Plants Identification](https://github.com/vanthiyathevan) | Python · CNN · ML · OpenCV | Team project using CNNs to classify medicinal plants via leaf image analysis — color, texture & shape features |
-| [😴 Driver Drowsiness Detection](https://github.com/vanthiyathevan) | Python · OpenCV · ML | Real-time eye-state detection system that alerts drivers when drowsiness is detected via camera feed |
+| [🌿 Medicinal Plants Identification](https://github.com/vanthiyan7) | Python · CNN · ML · OpenCV | Team project using CNNs to classify medicinal plants via leaf image analysis — color, texture & shape features |
+| [😴 Driver Drowsiness Detection](https://github.com/vanthiyan7) | Python · OpenCV · ML | Real-time eye-state detection system that alerts drivers when drowsiness is detected via camera feed |
 
 </div>
 
@@ -186,27 +184,13 @@ public class VanthiyathThevan {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanthiyanarul20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanthiyathevan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vanthiyathevan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vanthiyathevan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanthiyalarul20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanthiyath-thevan-a-44773b29a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vanthiyan7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanthiyath_thevan/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanthiyathevan&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vanthiyan7&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-<!--
-**vanthiyan7/vanthiyan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
